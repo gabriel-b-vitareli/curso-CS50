@@ -4,8 +4,6 @@
 
 Clique [aqui](https://scratch.mit.edu/projects/1318152258) para jogar.
 
-<iframe src="https://scratch.mit.edu/projects/1318152258/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
 <img width="1688" height="1256" alt="image" src="https://github.com/user-attachments/assets/fda61eaf-167a-4959-a71b-60b32a7f8501" />
 
 ---
