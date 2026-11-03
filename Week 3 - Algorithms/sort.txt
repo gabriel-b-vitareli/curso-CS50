@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It is the "cleverest" one. If you test it with a list that is already sorted (sorted50000.txt), it finishes instantly, as it realizes that nothing needs to be moved. However, if you use a list in reverse order (reversed50000.txt), it takes quite a long time.
+
+sort2 uses: Merge Sort
+
+How do you know?: It is the most efficient of all. Regardless of whether the list is unordered, reversed, or ordered, it processes files containing 50,000 numbers extremely quickly (usually in less than 0.1 seconds).
+
+sort3 uses: Selection Sort
+
+How do you know?: It is the most stubborn of them all. It always takes exactly the same amount of time—a slow process (several seconds), regardless of whether the list is perfectly sorted or in reverse order, since it insists on checking every single number.
